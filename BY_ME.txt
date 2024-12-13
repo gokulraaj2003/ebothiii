@@ -1,0 +1,17 @@
+Text to voice, audacity https://in.video.search.yahoo.com/video/play;_ylt=Awrx_4R4yTZnm6QYvWvmHAx.;_ylu=c2VjA3NyBHNsawN2aWQEZ3BvcwMy?p=sad+talker&vid=210c14aa3364da4a12e7bce08e535ed1&turl=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.awt3mleW9A5S7kloeVyNAgHgFo%26pid%3DApi%26h%3D360%26w%3D480%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DY9ZORpnSg8Y&tit=How+to+Use+SadTalker+AI+tool+to+make+One+Photo+a+Real+Talk+Show+%28A1111+tutorial%29&c=1&sigr=VK0cm4.TElSc&sigt=lZrM9jR2ecC0&sigi=Yi.4FnSWiNy7&fr2=p%3As%2Cv%3Av&h=360&w=480&l=446&age=1695056233&fr=mcafee&type=E210IN714G0&tt=b
+
+Esrgan to improve the quality of the video
+
+
+https://youtu.be/YCFPuDJs4EQ
+
+
+
+HOW TO:
+
+pip install -r requirements.txt
+pip install gradio==3.50.2
+
+python version : Python 3.10.6
+
+create a checkpoints folder and download gfpgan and sad talk model
